@@ -10,7 +10,7 @@ const VideoSection = () => {
     <section className="px-4 sm:py-20 py-16 flex justify-center items-center bg-white head-reveal">
       <div className="relative w-full max-w-7xl">
         <img
-          src="/public/images/video-img.jpg"
+          src="./images/video-img.jpg"
           alt="BMW car"
           className="w-full sm:h-[450px] h-[300px] rounded-xl object-cover shadow-lg"
         />
